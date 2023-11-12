@@ -1,5 +1,3 @@
-# IACV_Project
-
 # IACV Project Politecnico di Milano 2022-2023
 This project aims to analyse the geometric characteristics of clips inside the KT3DMoSeg dataset [[1]](#1), built upon the KITTI benchmark, that can be found in the [Data](./Data/) folder.
 KT3DMoSeg dataset was created by manually selecting 22 sequences and labelling each individual foreground object. In the dataset are present sequences with more significant camera translation so camera mounted on moving cars are preferred.
